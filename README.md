@@ -1,3 +1,7 @@
+[![Launch in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/caalvo/Smart_Cities_modelling/HEAD?filepath=SmartCities_BuildingThermics_Project_no_numbering.ipynb)
+
+
+
 Grenoble INP - Ense3
 
 Smart Cities - Dynamic Models for Building Energy Management
